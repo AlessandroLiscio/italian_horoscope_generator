@@ -1,1 +1,1 @@
-# Italian Horoscope Generator with GPT-2 italian pretrained "GePpeTto"
+# Italian horoscope generation with GPT-2 italian pretrained "GePpeTto"
