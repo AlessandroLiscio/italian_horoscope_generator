@@ -1,0 +1,9 @@
+CAMBIO SCENA
+[QUI-GON JINN] Capitano.
+[CAPITANO] Sì signore?
+[QUI-GON JINN] Dica che vogliamo salire subito a bordo.
+[CAPITANO] Col dovuto rispetto, gli ambasciatori del Cancelliere Supremo desiderano salire subito a bordo.
+[NUTE GUNRAY] Sì, certamente. Come sapete, il nostro blocco è perfettamente legale, e saremo molto felici di ricevere gli ambasciatori.
+[TC-14] Sono TC-14, al vostro servizio. Di qua, prego. Siamo molto onorati della vostra visita, signori ambasciatori, accomodatevi: il mio padrone sarà da voi tra un momento.
+[OBI-WAN KENOBI] Ho un presentimento negativo.
+[QUI-GON] Io non sento niente.
